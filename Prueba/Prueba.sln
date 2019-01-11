@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportesEdo", "ReportesEdo\ReportesEdo.csproj", "{D8B8E864-7C06-477F-85A7-13E8639EBDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reportes.Negocio", "reportes.Negocio\reportes.Negocio.csproj", "{691BD004-C6F3-46F6-B259-C1D3D09B86C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B8E864-7C06-477F-85A7-13E8639EBDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8E864-7C06-477F-85A7-13E8639EBDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8E864-7C06-477F-85A7-13E8639EBDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8E864-7C06-477F-85A7-13E8639EBDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691BD004-C6F3-46F6-B259-C1D3D09B86C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691BD004-C6F3-46F6-B259-C1D3D09B86C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691BD004-C6F3-46F6-B259-C1D3D09B86C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691BD004-C6F3-46F6-B259-C1D3D09B86C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989E58FA-A202-4651-9CA7-72B0B8236F86}
+	EndGlobalSection
+EndGlobal

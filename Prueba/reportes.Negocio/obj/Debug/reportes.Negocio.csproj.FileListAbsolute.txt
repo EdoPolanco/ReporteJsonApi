@@ -1,0 +1,12 @@
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\reportes.Negocio.dll
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\reportes.Negocio.pdb
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\itextsharp.dll
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\itextsharp.xml
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\obj\Debug\reportes.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\obj\Debug\reportes.Negocio.csproj.CopyComplete
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\obj\Debug\reportes.Negocio.dll
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\obj\Debug\reportes.Negocio.pdb
+C:\Users\edoed\source\repos\Prueba\reportes.Negocio\obj\Debug\reportes.Negocio.csprojAssemblyReference.cache
